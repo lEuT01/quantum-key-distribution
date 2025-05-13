@@ -1,6 +1,6 @@
 # Quantum Key Distribution (QKD) Implementation
 
-This repository contains a Jupyter notebook implementation of the BB84 quantum key distribution protocol using Qiskit. The project demonstrates core quantum cryptography concepts through detailed code examples and explanations.
+This repository contains a Jupyter notebook implementation of the BB84 quantum key distribution protocol using IBM's Qiskit package. The project demonstrates core quantum cryptography concepts through detailed code examples and explanations.
 
 ## Overview
 
